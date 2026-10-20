@@ -125,7 +125,9 @@ docs/DEPLOY.md             Vercel deployment and launch checklist
 
 1. **Camera.** `navigator.mediaDevices.getUserMedia({ video: { facingMode: "environment" } })` streams into
    a card. A capture copies the current frame to a canvas, runs a brightness and green share check so a
-   shot of the sky or a dark pocket is rejected, and keeps a JPEG data URL in React state only.
+   shot of the sky or a dark pocket is rejected, and keeps a JPEG data URL in React state only. The photo
+   is optional: "No photo? Tick the symptoms instead" goes straight to step 2 when the camera is blocked
+   or the farmer only has a leaf in hand.
 2. **Symptoms.** The farmer picks the crop and ticks any of the 12 symptoms, in English or Kiswahili.
 3. **Match.** `lib/symptomMatcher.ts` scores each condition for that crop by keyword overlap, sorts by score
    and returns the top three. All zero scores return an empty array and the UI asks for more symptoms rather

@@ -559,6 +559,20 @@ img {
   border-color: #70c745;
 }
 
+/* The outline variant, usable anywhere a lighter second action sits next to
+   the solid green button. */
+.btn.gc-btn-ghost {
+  background-color: transparent;
+  color: #303030;
+  border-color: #ebebeb;
+}
+
+.btn.gc-btn-ghost:hover,
+.btn.gc-btn-ghost:focus {
+  color: #70c745;
+  border-color: #70c745;
+}
+
 .gc-camera-actions .alazea-btn:disabled {
   opacity: 0.45;
   cursor: not-allowed;

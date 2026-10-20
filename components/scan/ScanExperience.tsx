@@ -98,6 +98,17 @@ export default function ScanExperience({ initialCrop = DEFAULT_CROP }: { initial
                   The photo stays on your phone. The matcher reads a local symptom database, so no image and no cloud
                   model is involved.
                 </div>
+                <button
+                  type="button"
+                  className="btn alazea-btn gc-btn-ghost mt-20"
+                  onClick={() => setStage("symptoms")}
+                >
+                  No photo? Tick the symptoms instead
+                </button>
+                <p className="gc-form-note mb-0 mt-10">
+                  A photo is optional. If the camera is blocked, or you only have a leaf in your hand, go straight to
+                  the symptom checklist.
+                </p>
               </motion.div>
             ) : null}
 
