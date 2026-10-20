@@ -3,6 +3,7 @@ import Credentials from "next-auth/providers/credentials";
 import Google from "next-auth/providers/google";
 import { z } from "zod";
 import { verifyPassword } from "@/lib/password";
+import { verifyRecaptcha } from "@/lib/recaptcha";
 import { getUser, saveUser, type Role } from "@/lib/store";
 
 declare module "next-auth" {
@@ -20,6 +21,7 @@ declare module "next-auth" {
 const credentialsSchema = z.object({
   email: z.string().email(),
   password: z.string().min(8),
+  token: z.string().optional(),
 });
 
 const googleEnabled = Boolean(process.env.GOOGLE_CLIENT_ID && process.env.GOOGLE_CLIENT_SECRET);
@@ -46,10 +48,17 @@ export const { handlers, auth, signIn, signOut } = NextAuth({
       credentials: {
         email: { label: "Email", type: "email" },
         password: { label: "Password", type: "password" },
+        token: { label: "Security check", type: "hidden" },
       },
       async authorize(raw) {
         const parsed = credentialsSchema.safeParse(raw);
         if (!parsed.success) return null;
+
+        // The same invisible reCAPTCHA v3 check used on the other forms. When no
+        // secret is configured it reports skipped, so local sign in still works.
+        const captcha = await verifyRecaptcha(parsed.data.token);
+        if (!captcha.success) return null;
+
         const user = await getUser(parsed.data.email);
         if (!user || !verifyPassword(parsed.data.password, user.passwordHash)) return null;
         return {

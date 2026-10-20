@@ -1,11 +1,11 @@
 "use client";
 
-import { useState } from "react";
+import { useEffect, useRef, useState } from "react";
 import Link from "next/link";
 import { useRouter, useSearchParams } from "next/navigation";
 import { signIn } from "next-auth/react";
 import { Loader2, LogIn } from "lucide-react";
-import { getRecaptchaToken } from "@/lib/recaptchaClient";
+import { getRecaptchaToken, renderRecaptchaV2 } from "@/lib/recaptchaClient";
 
 export default function SignInForm({ googleEnabled }: { googleEnabled: boolean }) {
   const router = useRouter();
@@ -15,17 +15,52 @@ export default function SignInForm({ googleEnabled }: { googleEnabled: boolean }
   const [password, setPassword] = useState("");
   const [error, setError] = useState("");
   const [busy, setBusy] = useState(false);
+  const [requiresV2, setRequiresV2] = useState(false);
+  const v2Ref = useRef<HTMLDivElement | null>(null);
+  const v2TokenRef = useRef<string>("");
+
+  useEffect(() => {
+    if (!requiresV2 || !v2Ref.current) return;
+    void renderRecaptchaV2(v2Ref.current).then((token) => {
+      v2TokenRef.current = token;
+    });
+  }, [requiresV2]);
 
   const submit = async (event: React.FormEvent) => {
     event.preventDefault();
     setBusy(true);
     setError("");
     try {
-      // Invisible reCAPTCHA v3 runs before the credentials are sent.
-      await getRecaptchaToken("signin");
+      // Invisible reCAPTCHA v3 first, then a visible checkbox if the score is
+      // low. The token is checked on the server inside the credentials provider.
+      const precheck = await getRecaptchaToken("signin");
+      if (precheck) {
+        const check = (await fetch("/api/recaptcha/verify", {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify({ token: precheck, action: "signin" }),
+        })
+          .then((response) => response.json())
+          .catch(() => null)) as { ok?: boolean; requiresV2?: boolean; skipped?: boolean } | null;
+
+        if (check?.requiresV2) {
+          setRequiresV2(true);
+          setError("Please complete the quick check below, then sign in again.");
+          setBusy(false);
+          return;
+        }
+        if (check && check.ok === false && !check.skipped) {
+          setError("The security check could not be completed. Reload the page and try again.");
+          setBusy(false);
+          return;
+        }
+      }
+
+      const token = requiresV2 && v2TokenRef.current ? v2TokenRef.current : await getRecaptchaToken("signin");
       const result = await signIn("credentials", {
         email,
         password,
+        token: token ?? "",
         redirect: false,
         callbackUrl,
       });
@@ -82,6 +117,8 @@ export default function SignInForm({ googleEnabled }: { googleEnabled: boolean }
             required
           />
         </div>
+
+        {requiresV2 ? <div ref={v2Ref} className="mb-20" /> : null}
 
         <button type="submit" className="btn alazea-btn d-inline-flex align-items-center w-100 justify-content-center" disabled={busy} style={{ gap: 8 }}>
           {busy ? <Loader2 size={16} className="gc-spin" aria-hidden="true" /> : <LogIn size={16} aria-hidden="true" />}
