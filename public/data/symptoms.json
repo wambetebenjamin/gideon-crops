@@ -1,0 +1,1427 @@
+[
+  {
+    "id": "maize-streak-virus",
+    "cropName": "Maize",
+    "conditionName": {
+      "en": "Maize streak virus",
+      "sw": "Ugonjwa wa michirizi ya mahindi"
+    },
+    "type": "disease",
+    "visualSymptoms": [
+      "yellowing",
+      "mosaic-pattern",
+      "pale-colour"
+    ],
+    "severity": "high",
+    "treatmentAdvice": {
+      "en": "There is no cure once a maize plant has streak virus. Pull out and burn the affected plants so leafhoppers cannot carry the virus to healthy maize. Plant a streak resistant variety next season and keep the field free of grass weeds that shelter the insect.",
+      "sw": "Hakuna tiba mmea wa mahindi ukipata ugonjwa wa michirizi. Ng'oa na choma mimea iliyoathirika ili wadudu wasisambaze virusi kwa mahindi yenye afya. Panda mbegu zinazostahimili ugonjwa huu msimu ujao na uondoe nyasi shambani zinazowapa wadudu makazi."
+    },
+    "preventionTip": {
+      "en": "Use certified streak resistant seed and plant early when the first reliable rains arrive.",
+      "sw": "Tumia mbegu zilizothibitishwa zinazostahimili ugonjwa na panda mapema mvua za kwanza zikishika."
+    },
+    "affectedCrops": [
+      "Maize"
+    ]
+  },
+  {
+    "id": "maize-rust",
+    "cropName": "Maize",
+    "conditionName": {
+      "en": "Maize rust",
+      "sw": "Kuvu ya kutu ya mahindi"
+    },
+    "type": "disease",
+    "visualSymptoms": [
+      "brown-spots",
+      "pale-colour",
+      "yellowing"
+    ],
+    "severity": "medium",
+    "treatmentAdvice": {
+      "en": "Rust spreads fast in humid weather, so remove the worst affected lower leaves and burn them away from the field. If many plants show brown powder on the leaves, spray a recommended fungicide and repeat after the period stated on the label. Keep the plot well weeded so air can move between plants.",
+      "sw": "Kutu huenea haraka wakati wa unyevu mwingi, kwa hiyo ng'oa majani ya chini yaliyoathirika zaidi na uyachome mbali na shamba. Mimea mingi ikionyesha unga wa kahawia kwenye majani, nyunyiza dawa ya kuvu inayopendekezwa na urudie baada ya muda ulioelezwa kwenye kifungashio. Ondoa magugu ili hewa ipite vizuri kati ya mimea."
+    },
+    "preventionTip": {
+      "en": "Rotate maize with beans or another crop and avoid planting the same seed on the same plot season after season.",
+      "sw": "Badilisha mahindi na maharagwe au zao lingine na usipande mbegu zile zile kwenye shamba lile kwa misimu yote."
+    },
+    "affectedCrops": [
+      "Maize"
+    ]
+  },
+  {
+    "id": "fall-armyworm",
+    "cropName": "Maize",
+    "conditionName": {
+      "en": "Fall armyworm damage",
+      "sw": "Uharibifu wa viwavi jeshi"
+    },
+    "type": "pest",
+    "visualSymptoms": [
+      "holes-in-leaves",
+      "insect-presence",
+      "unusual-growth"
+    ],
+    "severity": "high",
+    "treatmentAdvice": {
+      "en": "Check the funnel of each maize plant early in the morning and pick out the caterpillars by hand when the numbers are still small. Where many plants are attacked, apply a recommended caterpillar control into the funnel of the plant and follow the label rate. Cut and destroy badly damaged young plants so the worms do not move to the next rows.",
+      "sw": "Angalia kwenye kichwa cha mmea wa mahindi asubuhi na mapema na uokote viwavi kwa mkono wakati bado wachache. Mimea mingi ikiwa imeshambuliwa, weka dawa inayopendekezwa ya viwavi kwenye kichwa cha mmea kwa kiwango kilichoandikwa. Kata na uharibu mimea michanga iliyoharibika sana ili viwavi wasihamie mistari inayofuata."
+    },
+    "preventionTip": {
+      "en": "Scout the field twice a week from germination and plant a border of Napier grass to pull the moths away from the maize.",
+      "sw": "Kagua shamba mara mbili kwa wiki kuanzia kuota na panda mstari wa nyasi ya Napier pembeni ili nondo wasielekee mahindi."
+    },
+    "affectedCrops": [
+      "Maize"
+    ]
+  },
+  {
+    "id": "maize-ear-rot",
+    "cropName": "Maize",
+    "conditionName": {
+      "en": "Maize ear rot",
+      "sw": "Kuoza kwa gunzi la mahindi"
+    },
+    "type": "disease",
+    "visualSymptoms": [
+      "black-spots",
+      "rotting-stem",
+      "unusual-growth"
+    ],
+    "severity": "medium",
+    "treatmentAdvice": {
+      "en": "Remove and bury cobs that show mould or dark patches, and never mix them with the harvest you plan to eat. Dry the good cobs quickly on a raised rack until they rattle when shaken. Store only clean, dry grain in a ventilated store.",
+      "sw": "Ondoa na uzike magunzi yenye ukungu au madoa meusi, na usiyachanganye na mavuno utakayokula. Anika magunzi mazuri haraka juu ya kiunzi kilichoinuliwa mpaka yakitikiswa yasikike. Hifadhi nafaka safi na kavu pekee kwenye ghala lenye uingizaji hewa."
+    },
+    "preventionTip": {
+      "en": "Harvest as soon as the cobs are mature and dry the grain down to a safe moisture level before storage.",
+      "sw": "Vuna mara tu magunzi yanapokomaa na kausha nafaka hadi unyevu salama kabla ya kuhifadhi."
+    },
+    "affectedCrops": [
+      "Maize"
+    ]
+  },
+  {
+    "id": "maize-stalk-borer",
+    "cropName": "Maize",
+    "conditionName": {
+      "en": "Maize stalk borer damage",
+      "sw": "Uharibifu wa wadudu wa shina la mahindi"
+    },
+    "type": "pest",
+    "visualSymptoms": [
+      "holes-in-leaves",
+      "wilting",
+      "unusual-growth",
+      "insect-presence"
+    ],
+    "severity": "high",
+    "treatmentAdvice": {
+      "en": "Look for small holes and sawdust like waste near the stem and split the stem on a few plants to confirm the borer. Push a recommended granular insecticide into the funnel or spray the stem as directed on the label. Pull up and destroy plants that have already collapsed so the insect does not continue to spread.",
+      "sw": "Tafuta matundu madogo na vumbi kama vumbi la mbao karibu na shina na ufungue shina la mimea michache kuthibitisha wadudu hao. Weka dawa ya wadudu inayopendekezwa kwenye kichwa cha mmea au nyunyiza shina kama ilivyoelekezwa. Ng'oa na uharibu mimea iliyoanguka ili wadudu wasiendelee kuenea."
+    },
+    "preventionTip": {
+      "en": "Clear and burn old maize stalks after harvest because they carry the borer from one season to the next.",
+      "sw": "Safisha na choma mabua ya mahindi ya zamani baada ya mavuno kwa sababu huhifadhi wadudu hao kutoka msimu mmoja hadi mwingine."
+    },
+    "affectedCrops": [
+      "Maize"
+    ]
+  },
+  {
+    "id": "tomato-blight",
+    "cropName": "Tomato",
+    "conditionName": {
+      "en": "Tomato blight",
+      "sw": "Baka la nyanya"
+    },
+    "type": "disease",
+    "visualSymptoms": [
+      "brown-spots",
+      "black-spots",
+      "wilting",
+      "rotting-stem"
+    ],
+    "severity": "high",
+    "treatmentAdvice": {
+      "en": "Blight moves quickly in cool wet weather, so remove affected leaves and fruits and burn them far from the plot. Spray a recommended fungicide that works on blight and repeat as the label directs while the rain continues. Support the plants with stakes so leaves do not touch the soil, and water at the base rather than on the leaves.",
+      "sw": "Baka huenea haraka wakati wa baridi na unyevu, kwa hiyo ng'oa majani na matunda yaliyoathirika na uyachome mbali na shamba. Nyunyiza dawa ya kuvu inayofaa baka na urudie kama ilivyoelekezwa kwenye kifungashio wakati mvua ikiendelea. Imarisha mimea kwa miti ili majani yasiguse udongo, na mwagilia chini karibu na shina badala ya juu ya majani."
+    },
+    "preventionTip": {
+      "en": "Give tomatoes enough spacing, rotate with a crop that is not tomato or potato, and avoid working in the plot when the leaves are wet.",
+      "sw": "Pandia nyanya nafasi ya kutosha, badilisha na zao ambalo si nyanya au viazi, na epuka kufanya kazi shambani majani yakiwa na maji."
+    },
+    "affectedCrops": [
+      "Tomato"
+    ]
+  },
+  {
+    "id": "tomato-mosaic-virus",
+    "cropName": "Tomato",
+    "conditionName": {
+      "en": "Tomato mosaic virus",
+      "sw": "Virusi vya mosaic vya nyanya"
+    },
+    "type": "disease",
+    "visualSymptoms": [
+      "mosaic-pattern",
+      "curling-leaves",
+      "pale-colour"
+    ],
+    "severity": "medium",
+    "treatmentAdvice": {
+      "en": "A tomato plant with mosaic virus will not recover, so pull out the affected plants and destroy them away from the field. Wash your hands and tools with soap after handling sick plants because the virus spreads easily on fingers and knives. Do not save seed from plants that showed the pattern.",
+      "sw": "Mmea wa nyanya ulio na virusi vya mosaic hautapona, kwa hiyo ng'oa mimea iliyoathirika na uiharibu mbali na shamba. Osha mikono na zana kwa sabuni baada ya kushika mimea mgonjwa kwa sababu virusi huenea kwa urahisi kwenye vidole na visu. Usihifadhi mbegu kutoka kwa mimea iliyoonyesha michirizi hiyo."
+    },
+    "preventionTip": {
+      "en": "Buy certified tomato seed and control whiteflies and aphids because they carry the virus between plants.",
+      "sw": "Nunua mbegu za nyanya zilizothibitishwa na udhibiti inzi weupe na vidukari kwa sababu hubeba virusi kati ya mimea."
+    },
+    "affectedCrops": [
+      "Tomato"
+    ]
+  },
+  {
+    "id": "tomato-spider-mite",
+    "cropName": "Tomato",
+    "conditionName": {
+      "en": "Tomato spider mite",
+      "sw": "Utitiri wa buibui wa nyanya"
+    },
+    "type": "pest",
+    "visualSymptoms": [
+      "yellowing",
+      "pale-colour",
+      "curling-leaves",
+      "insect-presence"
+    ],
+    "severity": "medium",
+    "treatmentAdvice": {
+      "en": "Turn a few leaves over and look for tiny moving specks and fine webs, which confirm spider mites. Spray the underside of the leaves with a recommended miticide or with soapy water in the cool of the evening, and repeat after five to seven days. Remove the most damaged leaves and keep the plot free of dust, which the mites like.",
+      "sw": "Geuza majani machache na utafute vitu vidogo vinavyotembea na nyuzi nyembamba, dalili ya utitiri wa buibui. Nyunyiza upande wa chini wa majani kwa dawa inayopendekezwa ya utitiri au maji ya sabuni jioni wakati wa baridi, na urudie baada ya siku tano hadi saba. Ondoa majani yaliyoharibika zaidi na uepuke vumbi shambani kwa sababu utitiri hupenda vumbi."
+    },
+    "preventionTip": {
+      "en": "Keep the plot watered and mulched because dry dusty conditions let spider mites multiply very fast.",
+      "sw": "Weka maji na matandazo shambani kwa sababu hali kavu na yenye vumbi huwaruhusu utitiri kuongezeka haraka sana."
+    },
+    "affectedCrops": [
+      "Tomato"
+    ]
+  },
+  {
+    "id": "tomato-fruit-borer",
+    "cropName": "Tomato",
+    "conditionName": {
+      "en": "Tomato fruit borer",
+      "sw": "Mdudu wa kutoboa matunda ya nyanya"
+    },
+    "type": "pest",
+    "visualSymptoms": [
+      "holes-in-leaves",
+      "insect-presence",
+      "black-spots"
+    ],
+    "severity": "medium",
+    "treatmentAdvice": {
+      "en": "Pick and destroy every fruit with a small round hole because the caterpillar is feeding inside it. Spray a recommended caterpillar control in the evening when the moths are active and follow the waiting period before harvest. Keep the area around the plot clear of old tomato fruits and weeds.",
+      "sw": "Chuma na uharibu kila tunda lenye tundu dogo la mviringo kwa sababu kiwavi hula ndani yake. Nyunyiza dawa inayopendekezwa ya viwavi jioni wakati nondo wanafanya kazi na ufuate muda wa kusubiri kabla ya mavuno. Weka eneo la shamba safi bila matunda ya zamani ya nyanya na magugu."
+    },
+    "preventionTip": {
+      "en": "Cover young fruits with a light net or plant a strong smelling border crop to confuse the moths.",
+      "sw": "Funika matunda machanga kwa neti nyepesi au panda zao lenye harufu kali pembeni ili kuwachanganya nondo."
+    },
+    "affectedCrops": [
+      "Tomato"
+    ]
+  },
+  {
+    "id": "tomato-leaf-miner",
+    "cropName": "Tomato",
+    "conditionName": {
+      "en": "Tomato leaf miner",
+      "sw": "Mdudu wa kutoboa majani ya nyanya"
+    },
+    "type": "pest",
+    "visualSymptoms": [
+      "holes-in-leaves",
+      "yellowing",
+      "insect-presence"
+    ],
+    "severity": "low",
+    "treatmentAdvice": {
+      "en": "The pale winding lines inside the leaf are made by a small larva feeding between the leaf layers. Pick off and destroy the leaves with the most lines, which removes many larvae at once. If the attack is heavy, use a recommended leaf miner control and repeat only as the label allows.",
+      "sw": "Mistari myeupe inayopinda ndani ya jani husababishwa na lava mdogo anayekula kati ya tabaka za jani. Chuma na uharibu majani yenye mistari mingi, hii huondoa lava wengi kwa mkupuo mmoja. Mashambulizi yakiwa mengi, tumia dawa inayopendekezwa ya wadudu hawa na urudie kama kifungashio kinavyoruhusu."
+    },
+    "preventionTip": {
+      "en": "Use a fine insect net over young tomato seedlings and remove weeds that host the leaf miner.",
+      "sw": "Tumia neti nzuri ya wadudu juu ya miche michanga ya nyanya na uondoe magugu yanayowapa wadudu hawa makazi."
+    },
+    "affectedCrops": [
+      "Tomato"
+    ]
+  },
+  {
+    "id": "potato-late-blight",
+    "cropName": "Potato",
+    "conditionName": {
+      "en": "Potato late blight",
+      "sw": "Baka la kuchelewa la viazi"
+    },
+    "type": "disease",
+    "visualSymptoms": [
+      "black-spots",
+      "rotting-stem",
+      "wilting",
+      "pale-colour"
+    ],
+    "severity": "high",
+    "treatmentAdvice": {
+      "en": "Late blight can destroy a potato plot within a week, so act the moment you see dark water soaked patches on the leaves. Remove and burn affected tops and spray a recommended blight fungicide, repeating as the label says while the weather stays wet. Harvest only after the tops have been removed and destroyed for at least two weeks.",
+      "sw": "Baka la kuchelewa linaweza kuharibu shamba la viazi ndani ya wiki moja, kwa hiyo chukua hatua mara unapoona madoa meusi yenye maji kwenye majani. Ondoa na choma sehemu za juu zilizoathirika na unyunyize dawa ya kuvu inayofaa baka, ukirudia kama kifungashio kinavyoeleza wakati hali ya hewa ikiwa na unyevu. Vuna tu baada ya kuondoa na kuharibu sehemu za juu kwa wiki mbili."
+    },
+    "preventionTip": {
+      "en": "Plant certified potato seed, keep good spacing for airflow, and never compost infected potato tops near the plot.",
+      "sw": "Panda mbegu za viazi zilizothibitishwa, weka nafasi nzuri kwa hewa kupita, na usichanganye sehemu za viazi zilizoathirika kwenye mbolea karibu na shamba."
+    },
+    "affectedCrops": [
+      "Potato"
+    ]
+  },
+  {
+    "id": "potato-early-blight",
+    "cropName": "Potato",
+    "conditionName": {
+      "en": "Potato early blight",
+      "sw": "Baka la mapema la viazi"
+    },
+    "type": "disease",
+    "visualSymptoms": [
+      "brown-spots",
+      "yellowing",
+      "pale-colour"
+    ],
+    "severity": "medium",
+    "treatmentAdvice": {
+      "en": "Early blight shows as brown spots with rings inside them on the older leaves. Pick off affected leaves, water the plants at the base and spray a recommended fungicide if the spots keep spreading. Feed the crop with a balanced fertiliser so the plant can grow ahead of the disease.",
+      "sw": "Baka la mapema huonekana kama madoa ya kahawia yenye miviringo ndani kwenye majani ya zamani. Chuma majani yaliyoathirika, mwagilia mimea chini na unyunyize dawa ya kuvu inayopendekezwa ikiwa madoa yanaendelea kuenea. Weka mbolea yenye virutubisho sawa ili mmea uweze kukua kushinda ugonjwa."
+    },
+    "preventionTip": {
+      "en": "Rotate potatoes with maize or beans for at least two seasons and remove crop remains after harvest.",
+      "sw": "Badilisha viazi na mahindi au maharagwe kwa misimu miwili, na ondoa mabaki ya mazao baada ya mavuno."
+    },
+    "affectedCrops": [
+      "Potato"
+    ]
+  },
+  {
+    "id": "potato-aphid-damage",
+    "cropName": "Potato",
+    "conditionName": {
+      "en": "Potato aphid damage",
+      "sw": "Uharibifu wa vidukari vya viazi"
+    },
+    "type": "pest",
+    "visualSymptoms": [
+      "curling-leaves",
+      "insect-presence",
+      "yellowing"
+    ],
+    "severity": "medium",
+    "treatmentAdvice": {
+      "en": "Look under the leaves for clusters of small soft insects and for sticky honeydew. Wash them off with a strong jet of water and soapy spray in the evening, and repeat after four days. Where aphids keep returning, use a recommended aphid control and always read the label before spraying.",
+      "sw": "Angalia chini ya majani mkusanyiko wa wadudu wadogo laini na ute mzito. Waoshe kwa mkondo mkali wa maji na dawa ya maji ya sabuni jioni, na urudie baada ya siku nne. Vidukari wakiendelea kurudi, tumia dawa inayopendekezwa ya vidukari na usome kifungashio kabla ya kunyunyiza."
+    },
+    "preventionTip": {
+      "en": "Plant early and keep a border of flowering plants so natural enemies such as ladybirds can control the aphids.",
+      "sw": "Panda mapema na uweke mstari wa mimea yenye maua ili maadui wa asili kama nungunungu wadogo waweze kudhibiti vidukari."
+    },
+    "affectedCrops": [
+      "Potato"
+    ]
+  },
+  {
+    "id": "bean-rust",
+    "cropName": "Beans",
+    "conditionName": {
+      "en": "Bean rust",
+      "sw": "Kutu ya maharagwe"
+    },
+    "type": "disease",
+    "visualSymptoms": [
+      "brown-spots",
+      "yellowing"
+    ],
+    "severity": "medium",
+    "treatmentAdvice": {
+      "en": "Bean rust appears as small reddish brown powder spots on the underside of the leaves. Remove the affected leaves early and burn them, then spray a recommended fungicide if the spots reach the upper leaves. Avoid walking through the beans when the leaves are wet because that spreads the spores.",
+      "sw": "Kutu ya maharagwe huonekana kama madoa madogo ya unga wa rangi ya kahawia nyekundu chini ya majani. Ondoa majani yaliyoathirika mapema na uyachome, kisha unyunyize dawa ya kuvu inayopendekezwa ikiwa madoa yanafika majani ya juu. Epuka kupita katikati ya maharagwe majani yakiwa na maji kwa sababu hiyo huenea vimelea."
+    },
+    "preventionTip": {
+      "en": "Space the rows well, grow an improved bean variety and rotate with maize instead of beans every season.",
+      "sw": "Panga mistari kwa nafasi nzuri, panda mbegu bora za maharagwe na badilisha na mahindi badala ya kupanda maharagwe kila msimu."
+    },
+    "affectedCrops": [
+      "Beans"
+    ]
+  },
+  {
+    "id": "bean-mosaic-virus",
+    "cropName": "Beans",
+    "conditionName": {
+      "en": "Bean mosaic virus",
+      "sw": "Virusi vya mosaic vya maharagwe"
+    },
+    "type": "disease",
+    "visualSymptoms": [
+      "mosaic-pattern",
+      "curling-leaves",
+      "pale-colour"
+    ],
+    "severity": "medium",
+    "treatmentAdvice": {
+      "en": "Bean mosaic virus causes light and dark green patches and curled leaves, and infected plants will not recover. Pull out and destroy the sick plants before they flower so aphids cannot spread the virus. Wash your hands and tools after handling them and do not save seed from an affected plot.",
+      "sw": "Virusi vya mosaic vya maharagwe husababisha madoa ya kijani mwepesi na kijani kizito pamoja na majani kujikunja, na mimea iliyoathirika haitapona. Ng'oa na uharibu mimea mgonjwa kabla ya kutoa maua ili vidukari wasisambaze virusi. Osha mikono na zana baada ya kuzishika na usihifadhi mbegu kutoka shamba lililoathirika."
+    },
+    "preventionTip": {
+      "en": "Plant certified bean seed and control aphids early because they spread the virus from plant to plant.",
+      "sw": "Panda mbegu za maharagwe zilizothibitishwa na udhibiti vidukari mapema kwa sababu huenea virusi kutoka mmea hadi mmea."
+    },
+    "affectedCrops": [
+      "Beans"
+    ]
+  },
+  {
+    "id": "bean-aphid-damage",
+    "cropName": "Beans",
+    "conditionName": {
+      "en": "Bean aphid damage",
+      "sw": "Uharibifu wa vidukari vya maharagwe"
+    },
+    "type": "pest",
+    "visualSymptoms": [
+      "curling-leaves",
+      "insect-presence",
+      "yellowing"
+    ],
+    "severity": "medium",
+    "treatmentAdvice": {
+      "en": "Bean aphids gather on the young shoots and leave sticky leaves with curled edges. Spray the shoots with soapy water in the evening and wash the underside of the leaves, repeating after four days. If the field is heavily attacked, use a recommended aphid control and observe the waiting period before picking.",
+      "sw": "Vidukari vya maharagwe hukusanyika kwenye shina changa na kuacha majani yenye ute na kingo zilizojikunja. Nyunyiza shina kwa maji ya sabuni jioni na uoshe upande wa chini wa majani, ukirudia baada ya siku nne. Shamba likishambuliwa sana, tumia dawa inayopendekezwa ya vidukari na ufuate muda wa kusubiri kabla ya kuvuna."
+    },
+    "preventionTip": {
+      "en": "Avoid too much nitrogen fertiliser on beans because soft leafy growth attracts aphids.",
+      "sw": "Epuka mbolea nyingi ya nitrojeni kwenye maharagwe kwa sababu majani laini huvutia vidukari."
+    },
+    "affectedCrops": [
+      "Beans"
+    ]
+  },
+  {
+    "id": "kale-black-rot",
+    "cropName": "Kale",
+    "conditionName": {
+      "en": "Kale black rot",
+      "sw": "Kuoza kweusi kwa sukuma wiki"
+    },
+    "type": "disease",
+    "visualSymptoms": [
+      "yellowing",
+      "black-spots",
+      "wilting"
+    ],
+    "severity": "high",
+    "treatmentAdvice": {
+      "en": "Black rot starts as yellow patches between the leaf veins and turns the veins dark. Uproot affected plants with their roots and burn them, and do not put them in the compost. Do not work in the plot while the leaves are wet, and rotate to a different spot for at least two seasons.",
+      "sw": "Kuoza kweusi huanza kama madoa ya njano kati ya mishipa ya jani na kisha mishipa hugeuka meusi. Ng'oa mimea iliyoathirika pamoja na mizizi na uichome, na usiweke kwenye mbolea ya mboji. Usifanye kazi shambani majani yakiwa na maji, na hamia sehemu nyingine kwa misimu miwili."
+    },
+    "preventionTip": {
+      "en": "Buy kale seed from a trusted supplier and never save seed from a plot where black rot has appeared.",
+      "sw": "Nunua mbegu za sukuma wiki kwa muuzaji anayeaminika na usihifadhi mbegu kutoka shamba ambalo kuoza kweusi kumetokea."
+    },
+    "affectedCrops": [
+      "Kale"
+    ]
+  },
+  {
+    "id": "kale-aphid-damage",
+    "cropName": "Kale",
+    "conditionName": {
+      "en": "Kale aphid damage",
+      "sw": "Uharibifu wa vidukari vya sukuma wiki"
+    },
+    "type": "pest",
+    "visualSymptoms": [
+      "curling-leaves",
+      "insect-presence",
+      "pale-colour"
+    ],
+    "severity": "medium",
+    "treatmentAdvice": {
+      "en": "Kale aphids hide in the young curled leaves and on the growing tip. Wash them off with water and soap spray, or pick and destroy the badly curled leaves. For a heavy attack use a recommended aphid control and stop spraying at least a week before you pick leaves for the kitchen.",
+      "sw": "Vidukari vya sukuma wiki hujificha kwenye majani machanga yaliyojikunja na kwenye kichwa kinachokua. Waoshe kwa maji na dawa ya sabuni, au chuma na uharibu majani yaliyojikunja sana. Mashambulizi yakiwa mengi tumia dawa inayopendekezwa ya vidukari na acha kunyunyiza wiki moja kabla ya kuchuma majani ya jikoni."
+    },
+    "preventionTip": {
+      "en": "Check the growing tips twice a week and keep the bed weeded so ladybirds and other natural enemies can find the aphids.",
+      "sw": "Kagua vichwa vya mimea mara mbili kwa wiki na uondoe magugu ili nungunungu wadogo na maadui wengine wa asili waweze kupata vidukari."
+    },
+    "affectedCrops": [
+      "Kale"
+    ]
+  },
+  {
+    "id": "kale-diamondback-moth",
+    "cropName": "Kale",
+    "conditionName": {
+      "en": "Kale diamondback moth damage",
+      "sw": "Uharibifu wa nondo wa sukuma wiki"
+    },
+    "type": "pest",
+    "visualSymptoms": [
+      "holes-in-leaves",
+      "insect-presence"
+    ],
+    "severity": "medium",
+    "treatmentAdvice": {
+      "en": "Small green caterpillars feed under the leaves and leave see through patches and holes. Pick them off by hand and destroy leaves that hold many of them, and spray a recommended caterpillar control only when the damage is heavy. Alternate the product you use so the moth does not become resistant.",
+      "sw": "Viwavi wadogo wa kijani hula chini ya majani na kuacha sehemu zilizo na matundu. Waokote kwa mkono na uharibu majani yenye viwavi wengi, na unyunyize dawa inayopendekezwa ya viwavi pale tu uharibifu unapokuwa mkubwa. Badilisha dawa unayotumia ili nondo wasizoea."
+    },
+    "preventionTip": {
+      "en": "Grow kale under a fine net for the first weeks and keep the bed free of old cabbage and kale leaves.",
+      "sw": "Panda sukuma wiki chini ya neti nyembesi kwa wiki za kwanza na uondoe majani ya zamani ya kabichi na sukuma kwenye kitanda."
+    },
+    "affectedCrops": [
+      "Kale"
+    ]
+  },
+  {
+    "id": "kale-whitefly",
+    "cropName": "Kale",
+    "conditionName": {
+      "en": "Kale whitefly damage",
+      "sw": "Uharibifu wa inzi weupe wa sukuma wiki"
+    },
+    "type": "pest",
+    "visualSymptoms": [
+      "insect-presence",
+      "yellowing",
+      "pale-colour"
+    ],
+    "severity": "medium",
+    "treatmentAdvice": {
+      "en": "Whiteflies fly up in a cloud when you touch the plant and leave sticky leaves and sooty mould. Hang a yellow sticky trap near the bed to catch the adults and reduce their numbers. If the leaves stay coated, use a recommended whitefly control and wash the leaves well before cooking.",
+      "sw": "Inzi weupe huruka kwa wingi unapogusa mmea na kuacha majani yenye ute na ukungu mweusi. Tundika mtego wa njano unaonata karibu na kitanda kukamata waliokomaa na kupunguza idadi yao. Majani yakibaki na tabaka, tumia dawa inayopendekezwa ya inzi weupe na uoshe majani vizuri kabla ya kupika."
+    },
+    "preventionTip": {
+      "en": "Keep the kale bed away from old tomato and bean plots that shelter whiteflies and clear weeds around it.",
+      "sw": "Weka kitanda cha sukuma mbali na maeneo ya zamani ya nyanya na maharagwe yanayowapa inzi weupe makazi na uondoe magugu karibu nacho."
+    },
+    "affectedCrops": [
+      "Kale"
+    ]
+  },
+  {
+    "id": "cassava-mosaic-disease",
+    "cropName": "Cassava",
+    "conditionName": {
+      "en": "Cassava mosaic disease",
+      "sw": "Ugonjwa wa mosaic wa muhogo"
+    },
+    "type": "disease",
+    "visualSymptoms": [
+      "mosaic-pattern",
+      "yellowing",
+      "curling-leaves",
+      "unusual-growth"
+    ],
+    "severity": "high",
+    "treatmentAdvice": {
+      "en": "Cassava mosaic disease comes from the planting stick, so never take cuttings from a plant that shows pale patches or twisted leaves. Uproot and destroy affected plants and replace them with clean certified cuttings. Control whiteflies around the plot because they carry the disease from plant to plant.",
+      "sw": "Ugonjwa wa mosaic wa muhogo huja na kipande cha kupandia, kwa hiyo usichukue vipande kutoka kwa mmea wenye madoa meupe au majani yaliyopotoka. Ng'oa na uharibu mimea iliyoathirika na uweke vipande safi vilivyothibitishwa. Dhibiti inzi weupe karibu na shamba kwa sababu hubeba ugonjwa kutoka mmea hadi mmea."
+    },
+    "preventionTip": {
+      "en": "Get planting sticks only from clean mother plants and leave a buffer strip between your cassava and a neighbour who has the disease.",
+      "sw": "Pata vipande vya kupandia kutoka kwa mimea mama safi pekee na uache nafasi kati ya muhogo wako na jirani mwenye ugonjwa."
+    },
+    "affectedCrops": [
+      "Cassava"
+    ]
+  },
+  {
+    "id": "cassava-bacterial-blight",
+    "cropName": "Cassava",
+    "conditionName": {
+      "en": "Cassava bacterial blight",
+      "sw": "Baka la bakteria la muhogo"
+    },
+    "type": "disease",
+    "visualSymptoms": [
+      "wilting",
+      "rotting-stem",
+      "yellowing",
+      "pale-colour"
+    ],
+    "severity": "high",
+    "treatmentAdvice": {
+      "en": "Bacterial blight causes sudden wilting and dark gum on the stem, and it spreads in splashing rain. Cut out and burn affected stems, and do not carry the disease from plant to plant on your knife or hands. Stop taking cuttings from the plot and plant fresh sticks from a clean source instead.",
+      "sw": "Baka la bakteria husababisha kunyauka kwa ghafla na utomvu mweusi kwenye shina, na huenea kwa maji ya mvua. Kata na choma mashina yaliyoathirika, na usisambaze ugonjwa kutoka mmea hadi mmea kwa kisu au mikono yako. Acha kuchukua vipande kutoka shambani na panda vipande vipya kutoka chanzo safi."
+    },
+    "preventionTip": {
+      "en": "Plant resistant cassava varieties, avoid working in a wet plot, and clean your cutting knife between fields.",
+      "sw": "Panda aina za muhogo zinazostahimili, epuka kufanya kazi shambani lenye maji, na safisha kisu chako cha kukatia kati ya mashamba."
+    },
+    "affectedCrops": [
+      "Cassava"
+    ]
+  },
+  {
+    "id": "cassava-green-mite",
+    "cropName": "Cassava",
+    "conditionName": {
+      "en": "Cassava green mite",
+      "sw": "Utitiri wa kijani wa muhogo"
+    },
+    "type": "pest",
+    "visualSymptoms": [
+      "unusual-growth",
+      "pale-colour",
+      "yellowing"
+    ],
+    "severity": "medium",
+    "treatmentAdvice": {
+      "en": "Green mites feed on the young leaves so the plant produces small pale leaves and short shoots. Prune the most affected tips and burn them away from the field to remove many mites at once. Where the whole plot is affected, use a recommended mite control and keep the plants well fed with potassium so they recover.",
+      "sw": "Utitiri wa kijani hula majani machanga kwa hiyo mmea hutoa majani madogo yaliyofifia na shina fupi. Pogoa vichwa vilivyoathirika zaidi na uvichome mbali na shamba kuondoa utitiri wengi kwa mkupuo mmoja. Shamba lote likiwa limeathirika, tumia dawa inayopendekezwa ya utitiri na uweke mbolea ya potasiamu ili mimea ipone."
+    },
+    "preventionTip": {
+      "en": "Keep the cassava field free of dusty dry weeds and intercrop with a legume to encourage natural mite predators.",
+      "sw": "Weka shamba la muhogo bila magugu makavu yenye vumbi na changanya na zao la kunde kuvutia maadui wa asili wa utitiri."
+    },
+    "affectedCrops": [
+      "Cassava"
+    ]
+  },
+  {
+    "id": "cassava-brown-leaf-spot",
+    "cropName": "Cassava",
+    "conditionName": {
+      "en": "Cassava brown leaf spot",
+      "sw": "Madoa ya kahawia ya majani ya muhogo"
+    },
+    "type": "disease",
+    "visualSymptoms": [
+      "brown-spots",
+      "yellowing"
+    ],
+    "severity": "medium",
+    "treatmentAdvice": {
+      "en": "Brown leaf spot shows as round brown marks with a lighter centre on older cassava leaves. Remove and burn the fallen and affected leaves so the fungus does not build up in the soil. If the spots are on most plants, spray a recommended fungicide and repeat as the label states.",
+      "sw": "Madoa ya kahawia ya majani huonekana kama madoa ya mviringo ya kahawia yenye katikati nyepesi kwenye majani ya zamani ya muhogo. Ondoa na choma majani yaliyoanguka na yaliyoathirika ili kuvu isijengeke kwenye udongo. Madoa yakiwa kwenye mimea mingi, nyunyiza dawa ya kuvu inayopendekezwa na urudie kama kifungashio kinavyoeleza."
+    },
+    "preventionTip": {
+      "en": "Rotate cassava with maize or beans and do not plant new sticks where infected leaves were left to rot.",
+      "sw": "Badilisha muhogo na mahindi au maharagwe na usipande vipande vipya mahali majani yaliyoathirika yaliachwa kuoza."
+    },
+    "affectedCrops": [
+      "Cassava"
+    ]
+  },
+  {
+    "id": "banana-fusarium-wilt",
+    "cropName": "Banana",
+    "conditionName": {
+      "en": "Banana fusarium wilt",
+      "sw": "Kunyauka kwa ndizi kwa fusarium"
+    },
+    "type": "disease",
+    "visualSymptoms": [
+      "yellowing",
+      "wilting",
+      "rotting-stem"
+    ],
+    "severity": "high",
+    "treatmentAdvice": {
+      "en": "Fusarium wilt starts with yellowing on the older leaves and the stem splits near the base. There is no cure for a sick mat, so dig out the whole mat including the roots and destroy it away from the farm. Do not move suckers from that spot and do not share tools with a neighbour without cleaning them.",
+      "sw": "Kunyauka kwa fusarium huanza kwa majani ya zamani kuwa njano na shina kupasuka karibu na chini. Hakuna tiba kwa shina lililoathirika, kwa hiyo chimba shina lote pamoja na mizizi na uliharibu mbali na shamba. Usihamishe miche kutoka sehemu hiyo na usikopeshe zana kwa jirani bila kuzisafisha."
+    },
+    "preventionTip": {
+      "en": "Plant tissue culture banana suckers from a trusted nursery and never plant where fusarium wilt has occurred before.",
+      "sw": "Panda miche ya ndizi ya tissue culture kutoka kitalu kinachoaminika na usipande mahali kunyauka kwa fusarium kumetokea awali."
+    },
+    "affectedCrops": [
+      "Banana"
+    ]
+  },
+  {
+    "id": "banana-weevil",
+    "cropName": "Banana",
+    "conditionName": {
+      "en": "Banana weevil damage",
+      "sw": "Uharibifu wa wadudu wa ndizi"
+    },
+    "type": "pest",
+    "visualSymptoms": [
+      "holes-in-leaves",
+      "rotting-stem",
+      "wilting",
+      "insect-presence"
+    ],
+    "severity": "high",
+    "treatmentAdvice": {
+      "en": "Banana weevils tunnel into the stem and the plant weakens, leans and snaps. Split a fallen stem to look for the white grubs and creamy tunnels, which confirms the pest. Cut and destroy heavily damaged stems, clean the base of the mat and apply a recommended weevil control as directed.",
+      "sw": "Wadudu wa ndizi hutoboa shina na mmea hupungua nguvu, huinama na kukatika. Pasua shina lililoanguka na utafute funza weupe na njia zenye rangi ya krimu, hii inathibitisha wadudu hao. Kata na uharibu mashina yaliyoharibika sana, safisha msingi wa shina na uweke dawa inayopendekezwa ya wadudu hao kama ilivyoelekezwa."
+    },
+    "preventionTip": {
+      "en": "Remove old banana stems and corms after harvest and keep the mat clean, because the weevil breeds in rotting stems.",
+      "sw": "Ondoa mashina ya zamani ya ndizi na mizizi baada ya mavuno na uweke shina safi, kwa sababu wadudu hao huzaliana kwenye mashina yanayooza."
+    },
+    "affectedCrops": [
+      "Banana"
+    ]
+  },
+  {
+    "id": "banana-black-sigatoka",
+    "cropName": "Banana",
+    "conditionName": {
+      "en": "Banana black sigatoka",
+      "sw": "Madoa meusi ya sigatoka ya ndizi"
+    },
+    "type": "disease",
+    "visualSymptoms": [
+      "black-spots",
+      "yellowing",
+      "pale-colour"
+    ],
+    "severity": "medium",
+    "treatmentAdvice": {
+      "en": "Black sigatoka begins as narrow dark streaks on the leaf and later turns whole leaves yellow and dry. Cut off and remove the worst leaves so air moves through the mat and burn them away from the plot. If many leaves are affected, spray a recommended fungicide and repeat after the interval on the label.",
+      "sw": "Sigatoka nyeusi huanza kama michirizi nyembamba meusi kwenye jani na baadaye majani yote huwa njano na kukauka. Kata na uondoe majani yaliyoathirika zaidi ili hewa ipite kwenye shina na uyachome mbali na shamba. Majani mengi yakiathirika, nyunyiza dawa ya kuvu inayopendekezwa na urudie baada ya muda ulioandikwa."
+    },
+    "preventionTip": {
+      "en": "Keep enough space between banana mats and remove old leaves regularly so the plot stays open and less humid.",
+      "sw": "Weka nafasi ya kutosha kati ya mashina ya ndizi na uondoe majani ya zamani mara kwa mara ili shamba liwe wazi lisilo na unyevu mwingi."
+    },
+    "affectedCrops": [
+      "Banana"
+    ]
+  },
+  {
+    "id": "banana-bunchy-top-virus",
+    "cropName": "Banana",
+    "conditionName": {
+      "en": "Banana bunchy top virus",
+      "sw": "Virusi vya bunchy top vya ndizi"
+    },
+    "type": "disease",
+    "visualSymptoms": [
+      "unusual-growth",
+      "yellowing",
+      "curling-leaves"
+    ],
+    "severity": "high",
+    "treatmentAdvice": {
+      "en": "Bunchy top makes the plant produce short bunched leaves that point upwards and the plant stops producing a bunch. Dig out the whole affected mat and destroy it, because the virus stays in the roots and suckers. Control the black banana aphid around the plot since it carries the virus from mat to mat.",
+      "sw": "Bunchy top hufanya mmea kutoa majani mafupi yaliyokunjana yanayoelekea juu na mmea huacha kutoa shina. Chimba shina lote lililoathirika na uliharibu, kwa sababu virusi hubaki kwenye mizizi na miche. Dhibiti vidukari weusi vya ndizi karibu na shamba kwa sababu hubeba virusi kutoka shina hadi shina."
+    },
+    "preventionTip": {
+      "en": "Use certified clean suckers and inspect new planting material before it enters the farm.",
+      "sw": "Tumia miche safi iliyothibitishwa na ukague mbegu mpya kabla ya kuingia shambani."
+    },
+    "affectedCrops": [
+      "Banana"
+    ]
+  },
+  {
+    "id": "wheat-rust",
+    "cropName": "Wheat",
+    "conditionName": {
+      "en": "Wheat rust",
+      "sw": "Kutu ya ngano"
+    },
+    "type": "disease",
+    "visualSymptoms": [
+      "brown-spots",
+      "yellowing",
+      "pale-colour"
+    ],
+    "severity": "high",
+    "treatmentAdvice": {
+      "en": "Wheat rust shows as orange or brown powder on the stems and leaves, and the wind carries it fast across the field. Spray a recommended rust fungicide as soon as the first pustules appear and repeat according to the label. Where the crop is already badly affected, cut it early for fodder so the spores do not spread to the next plot.",
+      "sw": "Kutu ya ngano huonekana kama unga wa rangi ya machungwa au kahawia kwenye mashina na majani, na upepo huienea haraka shambani. Nyunyiza dawa ya kuvu inayofaa kutu mara tu vidonda vya kwanza vinapotokea na urudie kama kifungashio kinavyoeleza. Zao likiwa limeathirika sana, likate mapema kwa ajili ya chakula cha mifugo ili vimelea visiene kwenye shamba lingine."
+    },
+    "preventionTip": {
+      "en": "Plant rust resistant wheat varieties and avoid very late planting when rust pressure is highest.",
+      "sw": "Panda aina za ngano zinazostahimili kutu na epuka kupanda kwa kuchelewa wakati kutu ikiwa mingi."
+    },
+    "affectedCrops": [
+      "Wheat"
+    ]
+  },
+  {
+    "id": "wheat-aphid-damage",
+    "cropName": "Wheat",
+    "conditionName": {
+      "en": "Wheat aphid damage",
+      "sw": "Uharibifu wa vidukari vya ngano"
+    },
+    "type": "pest",
+    "visualSymptoms": [
+      "insect-presence",
+      "yellowing",
+      "curling-leaves"
+    ],
+    "severity": "medium",
+    "treatmentAdvice": {
+      "en": "Aphids cluster on the wheat ears and young leaves and leave sticky patches behind. Check the crop twice a week and spray a recommended aphid control when you find aphids on most plants. Do not spray when the crop is flowering hard, because bees and other helpful insects are working then.",
+      "sw": "Vidukari hukusanyika kwenye masuke ya ngano na majani machanga na kuacha madoa ya ute. Kagua zao mara mbili kwa wiki na unyunyize dawa inayopendekezwa ya vidukari unapokuta vidukari kwenye mimea mingi. Usinyunyize zao likiwa linatoa maua mengi kwa sababu nyuki na wadudu wengine wa manufaa hufanya kazi wakati huo."
+    },
+    "preventionTip": {
+      "en": "Sow wheat at the recommended time and keep field edges weeded to remove places where aphids survive between seasons.",
+      "sw": "Panda ngano kwa wakati unaopendekezwa na uondoe magugu pembezoni mwa shamba kuondoa mahali vidukari hubaki kati ya misimu."
+    },
+    "affectedCrops": [
+      "Wheat"
+    ]
+  },
+  {
+    "id": "wheat-loose-smut",
+    "cropName": "Wheat",
+    "conditionName": {
+      "en": "Wheat loose smut",
+      "sw": "Kuvu ya masuke ya ngano"
+    },
+    "type": "disease",
+    "visualSymptoms": [
+      "black-spots",
+      "unusual-growth",
+      "pale-colour"
+    ],
+    "severity": "high",
+    "treatmentAdvice": {
+      "en": "Loose smut turns the wheat ear into a mass of black powder that blows away in the wind. Pull the affected ears by hand into a bag, take them out of the field and burn them before the powder escapes. Treat your seed with a recommended seed dressing before the next planting, because the fungus travels inside the seed.",
+      "sw": "Kuvu ya masuke hugeuza suke la ngano kuwa unga mweusi unaopeperushwa na upepo. Chuma masuke yaliyoathirika kwa mkono kwenye mfuko, yatoe shambani na uyachome kabla unga kusambaa. Tiba mbegu zako kwa dawa inayopendekezwa ya mbegu kabla ya kupanda mwingine, kwa sababu kuvu hii husafiri ndani ya mbegu."
+    },
+    "preventionTip": {
+      "en": "Always use certified, treated wheat seed and never keep grain from a smutted crop for planting.",
+      "sw": "Tumia mbegu za ngano zilizothibitishwa na zilizotibiwa kila wakati na usihifadhi nafaka kutoka zao lenye kuvu hii kwa kupanda."
+    },
+    "affectedCrops": [
+      "Wheat"
+    ]
+  },
+  {
+    "id": "nitrogen-deficiency",
+    "cropName": "General",
+    "conditionName": {
+      "en": "Nitrogen deficiency",
+      "sw": "Upungufu wa nitrojeni"
+    },
+    "type": "deficiency",
+    "visualSymptoms": [
+      "yellowing",
+      "pale-colour",
+      "unusual-growth"
+    ],
+    "severity": "medium",
+    "treatmentAdvice": {
+      "en": "Nitrogen shortage shows as pale yellow older leaves and thin weak growth, while the young leaves stay greener. Apply a nitrogen fertiliser such as CAN or urea at the rate advised for your crop and water it in, or spread well rotted manure around the plants. Do not apply just before heavy rain, because the nutrient will wash away.",
+      "sw": "Upungufu wa nitrojeni huonekana kwa majani ya zamani kuwa njano hafifu na ukuaji mwembamba hafifu, wakati majani machanga hubaki ya kijani. Weka mbolea ya nitrojeni kama CAN au urea kwa kiwango kinachopendekezwa kwa zao lako na uimimine maji, au tawanya samadi iliyooza vizuri karibu na mimea. Usiweke mbolea kabla ya mvua kubwa kwa sababu virutubisho vitaoshwa."
+    },
+    "preventionTip": {
+      "en": "Rotate with beans or another legume and add compost or manure every season to keep nitrogen in the soil.",
+      "sw": "Badilisha na maharagwe au kunde nyingine na uongeze mboji au samadi kila msimu ili nitrojeni ibaki kwenye udongo."
+    },
+    "affectedCrops": [
+      "Maize",
+      "Tomato",
+      "Potato",
+      "Beans",
+      "Kale",
+      "Cassava",
+      "Banana",
+      "Wheat"
+    ]
+  },
+  {
+    "id": "potassium-deficiency",
+    "cropName": "General",
+    "conditionName": {
+      "en": "Potassium deficiency",
+      "sw": "Upungufu wa potasiamu"
+    },
+    "type": "deficiency",
+    "visualSymptoms": [
+      "brown-spots",
+      "yellowing",
+      "curling-leaves"
+    ],
+    "severity": "medium",
+    "treatmentAdvice": {
+      "en": "Potassium shortage shows as brown scorched edges on older leaves and weak stems that fall over easily. Apply a fertiliser that contains potassium, such as muriate of potash, at the rate recommended for your crop. Wood ash from a clean fire is a simple local source when it is spread thinly around the plants.",
+      "sw": "Upungufu wa potasiamu huonekana kwa kingo za majani ya zamani kuwa kahawia na kuchomeka, pamoja na mashina hafifu yanayoanguka kwa urahisi. Weka mbolea yenye potasiamu, kama muriate of potash, kwa kiwango kinachopendekezwa kwa zao lako. Jivu la kuni kutoka moto safi ni chanzo rahisi cha nyumbani likitawanywa kwa tabaka nyembamba karibu na mimea."
+    },
+    "preventionTip": {
+      "en": "Return crop residues to the field and use manure or compost regularly instead of burning everything after harvest.",
+      "sw": "Rudisha mabaki ya mazao shambani na tumia samadi au mboji mara kwa mara badala ya kuchoma kila kitu baada ya mavuno."
+    },
+    "affectedCrops": [
+      "Maize",
+      "Tomato",
+      "Potato",
+      "Beans",
+      "Kale",
+      "Cassava",
+      "Banana",
+      "Wheat"
+    ]
+  },
+  {
+    "id": "iron-deficiency",
+    "cropName": "General",
+    "conditionName": {
+      "en": "Iron deficiency",
+      "sw": "Upungufu wa chuma"
+    },
+    "type": "deficiency",
+    "visualSymptoms": [
+      "yellowing",
+      "pale-colour"
+    ],
+    "severity": "medium",
+    "treatmentAdvice": {
+      "en": "Iron shortage turns the young leaves yellow between the veins while the veins stay green. It is common on soils that are too wet or too alkaline, so first improve drainage and add compost. If the problem continues, use a foliar feed that contains iron and follow the mixing rate on the packet.",
+      "sw": "Upungufu wa chuma hufanya majani machanga kuwa njano kati ya mishipa wakati mishipa hubaki ya kijani. Huwa kawaida kwenye udongo wenye maji mengi au wenye chokaa nyingi, kwa hiyo anza kwa kuboresha mifereji ya maji na kuongeza mboji. Tatizo likiendelea, tumia mbolea ya kunyunyiza yenye chuma na ufuate kiwango cha kuchanganya kilichoandikwa."
+    },
+    "preventionTip": {
+      "en": "Avoid overwatering and add organic matter every season so plant roots can take up iron properly.",
+      "sw": "Epuka kumwagilia kwa maji mengi na uongeze mbolea ya asili kila msimu ili mizizi iweze kuchukua chuma vizuri."
+    },
+    "affectedCrops": [
+      "Maize",
+      "Tomato",
+      "Potato",
+      "Beans",
+      "Kale",
+      "Cassava",
+      "Banana",
+      "Wheat"
+    ]
+  },
+  {
+    "id": "phosphorus-deficiency",
+    "cropName": "General",
+    "conditionName": {
+      "en": "Phosphorus deficiency",
+      "sw": "Upungufu wa fosforasi"
+    },
+    "type": "deficiency",
+    "visualSymptoms": [
+      "pale-colour",
+      "unusual-growth",
+      "yellowing"
+    ],
+    "severity": "medium",
+    "treatmentAdvice": {
+      "en": "Phosphorus shortage keeps plants small and gives the older leaves a purple or dull dark green colour. Apply a planting fertiliser that contains phosphorus, such as DAP, in the planting hole and mix it with soil before placing the seedling. Add manure as well, because it helps the roots reach the phosphorus in the soil.",
+      "sw": "Upungufu wa fosforasi hufanya mimea kubaki midogo na majani ya zamani kuwa ya rangi ya zambarau au kijani kizito hafifu. Weka mbolea ya kupandia yenye fosforasi, kama DAP, kwenye shimo la kupandia na uichanganye na udongo kabla ya kuweka mche. Ongeza samadi pia, kwa sababu husaidia mizizi kufikia fosforasi iliyo kwenye udongo."
+    },
+    "preventionTip": {
+      "en": "Test your soil before planting and mix phosphorus fertiliser into the planting hole rather than spreading it on the surface.",
+      "sw": "Pima udongo wako kabla ya kupanda na changanya mbolea ya fosforasi kwenye shimo la kupandia badala ya kuitawanya juu ya uso."
+    },
+    "affectedCrops": [
+      "Maize",
+      "Tomato",
+      "Potato",
+      "Beans",
+      "Kale",
+      "Cassava",
+      "Banana",
+      "Wheat"
+    ]
+  },
+  {
+    "id": "waterlogging-damage",
+    "cropName": "General",
+    "conditionName": {
+      "en": "Waterlogging damage",
+      "sw": "Uharibifu wa maji mengi shambani"
+    },
+    "type": "deficiency",
+    "visualSymptoms": [
+      "wilting",
+      "yellowing",
+      "rotting-stem"
+    ],
+    "severity": "medium",
+    "treatmentAdvice": {
+      "en": "When water stands in the plot the roots cannot breathe, so the plants wilt even though the soil is wet. Open shallow drains along the lowest side of the field and lift the beds so surplus water can run off. Do not add more fertiliser until the soil has drained, because the roots cannot take it up yet.",
+      "sw": "Maji yanaposimama shambani mizizi haiwezi kupumua, kwa hiyo mimea hunyauka ingawa udongo una maji. Fungua mifereji midogo kwenye upande wa chini wa shamba na inua matuta ili maji ya ziada yatoke. Usiongeze mbolea mpaka udongo ukauke, kwa sababu mizizi haiwezi kuchukua virutubisho bado."
+    },
+    "preventionTip": {
+      "en": "Plant on raised beds in low lying plots and keep drains open before the long rains begin.",
+      "sw": "Panda kwenye matuta kwenye maeneo ya chini na fungua mifereji kabla ya mvua kubwa kuanza."
+    },
+    "affectedCrops": [
+      "Maize",
+      "Tomato",
+      "Potato",
+      "Beans",
+      "Kale",
+      "Cassava",
+      "Banana",
+      "Wheat"
+    ]
+  },
+  {
+    "id": "sunscorch",
+    "cropName": "General",
+    "conditionName": {
+      "en": "Sunscorch",
+      "sw": "Kuchomwa na jua"
+    },
+    "type": "deficiency",
+    "visualSymptoms": [
+      "pale-colour",
+      "brown-spots",
+      "curling-leaves"
+    ],
+    "severity": "low",
+    "treatmentAdvice": {
+      "en": "Sunscorch leaves pale bleached patches that later turn papery and brown on the side facing the sun. Shade the affected plants with a light mulch or grass screen during the hottest hours and keep the soil moist. Remove the worst leaves so the plant does not spend energy on damaged tissue.",
+      "sw": "Kuchomwa na jua huacha sehemu zilizofifia ambazo baadaye huwa kavu na kahawia upande unaoelekea jua. Ficha mimea iliyoathirika kwa matandazo mepesi au kifuniko cha nyasi wakati wa joto kali na uweke udongo wenye unyevu. Ondoa majani yaliyoharibika zaidi ili mmea usitumie nguvu kwenye sehemu zilizoharibika."
+    },
+    "preventionTip": {
+      "en": "Mulch around the plants and avoid pruning so heavily that fruits and leaves are left fully exposed to the sun.",
+      "sw": "Weka matandazo karibu na mimea na epuka kupogoa sana hadi matunda na majani yabaki wazi kwa jua."
+    },
+    "affectedCrops": [
+      "Maize",
+      "Tomato",
+      "Potato",
+      "Beans",
+      "Kale",
+      "Cassava",
+      "Banana",
+      "Wheat"
+    ]
+  },
+  {
+    "id": "powdery-mildew",
+    "cropName": "General",
+    "conditionName": {
+      "en": "Powdery mildew",
+      "sw": "Kuvu ya unga mweupe"
+    },
+    "type": "disease",
+    "visualSymptoms": [
+      "white-powder",
+      "yellowing",
+      "curling-leaves"
+    ],
+    "severity": "medium",
+    "treatmentAdvice": {
+      "en": "Powdery mildew looks like a dusting of white flour on the leaves and it grows fastest when days are warm and nights are cool. Pick off and burn the leaves with the most powder, then spray a recommended sulphur based fungicide in the evening. Improve airflow by weeding and spacing so the leaves dry quickly after rain.",
+      "sw": "Kuvu ya unga mweupe huonekana kama unga mweupe juu ya majani na hukua haraka zaidi siku zikiwa za joto na usiku ukiwa baridi. Chuma na uchome majani yenye unga mweupe mwingi, kisha nyunyiza dawa ya kuvu yenye salfa inayopendekezwa jioni. Boresha mzunguko wa hewa kwa kuondoa magugu na kupanga nafasi ili majani yakauke haraka baada ya mvua."
+    },
+    "preventionTip": {
+      "en": "Avoid crowding plants and water in the morning so the leaves are dry before night falls.",
+      "sw": "Epuka kusongamana kwa mimea na mwagilia asubuhi ili majani yakauke kabla usiku kuingia."
+    },
+    "affectedCrops": [
+      "Kale",
+      "Beans",
+      "Tomato",
+      "Wheat"
+    ]
+  },
+  {
+    "id": "tomato-bacterial-wilt",
+    "cropName": "Tomato",
+    "conditionName": {
+      "en": "Tomato bacterial wilt",
+      "sw": "Kunyauka kwa bakteria kwa nyanya"
+    },
+    "type": "disease",
+    "visualSymptoms": [
+      "wilting",
+      "yellowing",
+      "rotting-stem"
+    ],
+    "severity": "high",
+    "treatmentAdvice": {
+      "en": "Bacterial wilt makes a healthy looking tomato plant wilt in the heat and stay wilted in the evening, and the stem shows a brown ring when cut. There is no cure once a plant is sick, so pull it out with the roots and burn it away from the plot. Do not plant tomato, potato or pepper on that spot for at least three seasons.",
+      "sw": "Kunyauka kwa bakteria hufanya mmea wa nyanya unaoonekana mzuri unyauke wakati wa joto na kubaki umenyauka jioni, na shina huonyesha mzunguko wa kahawia ukikatwa. Hakuna tiba mmea ukiwa mgonjwa, kwa hiyo ung'oe pamoja na mizizi na uuchome mbali na shamba. Usipande nyanya, viazi au pilipili mahali hapo kwa misimu mitatu."
+    },
+    "preventionTip": {
+      "en": "Rotate with maize or a cereal, use clean seedling trays and never water with water from a stream that passes other farms.",
+      "sw": "Badilisha na mahindi au nafaka nyingine, tumia trei safi za miche na usimwagilie maji ya mto unaopita kwenye mashamba mengine."
+    },
+    "affectedCrops": [
+      "Tomato"
+    ]
+  },
+  {
+    "id": "maize-powdery-mildew",
+    "cropName": "Maize",
+    "conditionName": {
+      "en": "Maize powdery mildew",
+      "sw": "Kuvu ya unga mweupe ya mahindi"
+    },
+    "type": "disease",
+    "visualSymptoms": [
+      "white-powder",
+      "yellowing",
+      "pale-colour"
+    ],
+    "severity": "low",
+    "treatmentAdvice": {
+      "en": "Powdery mildew shows as a white dusting on the upper leaf surface, usually late in the season. Remove the most coated leaves and burn them, and spray a recommended sulphur product if the powder is spreading to new leaves. Keep the plot weeded so air moves between plants and the leaves dry quickly.",
+      "sw": "Kuvu ya unga mweupe huonekana kama unga mweupe juu ya jani, mara nyingi mwishoni wa msimu. Ondoa majani yenye unga mwingi na uyachome, na unyunyize dawa ya salfa inayopendekezwa ikiwa unga unaenea kwenye majani mapya. Ondoa magugu ili hewa ipite kati ya mimea na majani yakauke haraka."
+    },
+    "preventionTip": {
+      "en": "Avoid very close spacing and do not over apply nitrogen, which produces the soft leaves the fungus prefers.",
+      "sw": "Epuka kupandia kwa msongamano na usitumie nitrojeni nyingi, kwa sababu hiyo hutoa majani laini ambayo kuvu hii hupenda."
+    },
+    "affectedCrops": [
+      "Maize"
+    ]
+  },
+  {
+    "id": "potato-whitefly",
+    "cropName": "Potato",
+    "conditionName": {
+      "en": "Potato whitefly damage",
+      "sw": "Uharibifu wa inzi weupe wa viazi"
+    },
+    "type": "pest",
+    "visualSymptoms": [
+      "white-powder",
+      "insect-presence",
+      "yellowing"
+    ],
+    "severity": "medium",
+    "treatmentAdvice": {
+      "en": "Whiteflies sit under the leaves and leave a white waxy dust and sticky honeydew behind. Hang yellow sticky traps along the rows to catch the adults and check the traps twice a week. If the population is high, spray a recommended whitefly control in the evening and repeat as the label allows.",
+      "sw": "Inzi weupe hukaa chini ya majani na kuacha vumbi jeupe la nta pamoja na ute unaonata. Tundika mitego ya njano inayonata kando ya mistari kukamata waliokomaa na ukague mitego mara mbili kwa wiki. Idadi ikiwa kubwa, nyunyiza dawa inayopendekezwa ya inzi weupe jioni na urudie kama kifungashio kinavyoruhusu."
+    },
+    "preventionTip": {
+      "en": "Keep the field free of old potato and tomato leaves, and plant a border of maize to slow the whiteflies down.",
+      "sw": "Weka shamba bila majani ya zamani ya viazi na nyanya, na panda mstari wa mahindi ili kupunguza kasi ya inzi weupe."
+    },
+    "affectedCrops": [
+      "Potato"
+    ]
+  },
+  {
+    "id": "potato-tuber-moth",
+    "cropName": "Potato",
+    "conditionName": {
+      "en": "Potato tuber moth damage",
+      "sw": "Uharibifu wa nondo wa viazi"
+    },
+    "type": "pest",
+    "visualSymptoms": [
+      "holes-in-leaves",
+      "insect-presence",
+      "wilting"
+    ],
+    "severity": "medium",
+    "treatmentAdvice": {
+      "en": "The larvae mine narrow tunnels inside the leaves and later attack the tubers in the store. Pick and destroy leaves with mine lines, and earth up the ridges well so the moths cannot reach the tubers. Store only clean, undamaged tubers in a dark, cool place and sort them every two weeks.",
+      "sw": "Lava hutoboa njia nyembamba ndani ya majani na baadaye kushambulia viazi kwenye ghala. Chuma na uharibu majani yenye njia hizo, na unue matuta vizuri ili nondo wasiweze kufikia viazi. Hifadhi viazi safi visivyo na majeraha mahali pa giza na baridi na uvichambue kila wiki mbili."
+    },
+    "preventionTip": {
+      "en": "Never store potatoes with ones that show dark tunnels, and keep the store dark because the moth avoids light.",
+      "sw": "Usihifadhi viazi pamoja na vile vyenye njia nyeusi, na uweke ghala gizani kwa sababu nondo huepuka mwanga."
+    },
+    "affectedCrops": [
+      "Potato"
+    ]
+  },
+  {
+    "id": "potato-mosaic-virus",
+    "cropName": "Potato",
+    "conditionName": {
+      "en": "Potato mosaic virus",
+      "sw": "Virusi vya mosaic vya viazi"
+    },
+    "type": "disease",
+    "visualSymptoms": [
+      "mosaic-pattern",
+      "curling-leaves",
+      "pale-colour"
+    ],
+    "severity": "medium",
+    "treatmentAdvice": {
+      "en": "Potato mosaic virus gives light and dark green patches, crinkled leaves and a shorter plant. Affected plants will not recover, so remove and destroy them before they can infect the rest of the plot. Control aphids, which carry the virus between plants, and never save seed tubers from a plot that showed these marks.",
+      "sw": "Virusi vya mosaic vya viazi huleta madoa ya kijani mwepesi na kizito, majani yaliyokunjana na mmea mfupi. Mimea iliyoathirika haitapona, kwa hiyo iondoe na uiharibu kabla ya kuwaambukiza mingine. Dhibiti vidukari wanaobeba virusi kati ya mimea, na usihifadhi viazi vya mbegu kutoka shamba lililoonyesha madoa haya."
+    },
+    "preventionTip": {
+      "en": "Use certified seed potatoes from a registered grower and rogue out unusual plants early in the season.",
+      "sw": "Tumia viazi vya mbegu vilivyothibitishwa kutoka kwa mkulima aliyesajiliwa na ung'oe mimea isiyo ya kawaida mapema msimu."
+    },
+    "affectedCrops": [
+      "Potato"
+    ]
+  },
+  {
+    "id": "bean-anthracnose",
+    "cropName": "Beans",
+    "conditionName": {
+      "en": "Bean anthracnose",
+      "sw": "Anthracnose ya maharagwe"
+    },
+    "type": "disease",
+    "visualSymptoms": [
+      "black-spots",
+      "rotting-stem",
+      "wilting"
+    ],
+    "severity": "high",
+    "treatmentAdvice": {
+      "en": "Anthracnose causes dark sunken marks on the stems and pods and the plant starts to wilt above the damage. Pull out and burn affected plants and do not save seed from that plot, because the fungus travels on the seed. Rotate to maize or another cereal for at least two seasons.",
+      "sw": "Anthracnose husababisha madoa meusi yaliyozama kwenye mashina na maganda, na mmea huanza kunyauka juu ya jeraha. Ng'oa na uchome mimea iliyoathirika na usihifadhi mbegu kutoka shamba hilo, kwa sababu kuvu huambatana na mbegu. Badilisha na mahindi au nafaka nyingine kwa misimu miwili."
+    },
+    "preventionTip": {
+      "en": "Buy certified bean seed and treat it with a recommended seed dressing before planting.",
+      "sw": "Nunua mbegu za maharagwe zilizothibitishwa na uzitibu kwa dawa ya mbegu inayopendekezwa kabla ya kupanda."
+    },
+    "affectedCrops": [
+      "Beans"
+    ]
+  },
+  {
+    "id": "bean-leaf-beetle",
+    "cropName": "Beans",
+    "conditionName": {
+      "en": "Bean leaf beetle damage",
+      "sw": "Uharibifu wa mende wa majani ya maharagwe"
+    },
+    "type": "pest",
+    "visualSymptoms": [
+      "holes-in-leaves",
+      "insect-presence"
+    ],
+    "severity": "medium",
+    "treatmentAdvice": {
+      "en": "Small round holes in the leaves, with pieces of the edge eaten away, point to leaf beetles feeding at dusk. Visit the plot in the evening with a torch, pick off the beetles you find and destroy badly holed leaves. Only use a recommended insecticide if the damage is taking more than a third of the leaf area.",
+      "sw": "Matundu madogo ya mviringo kwenye majani, pamoja na kingo zilizotafunwa, huashiria mende wa majani wanaokula jioni. Tembelea shamba jioni na tochi, uokote mende unaowakuta na uharibu majani yenye matundu mengi. Tumia dawa inayopendekezwa tu ikiwa uharibifu unachukua zaidi ya theluthi moja ya eneo la jani."
+    },
+    "preventionTip": {
+      "en": "Keep a strip of flowering plants at the field edge to bring in birds and predatory insects.",
+      "sw": "Weka mstari wa mimea yenye maua pembezoni mwa shamba ili kuvutia ndege na wadudu wanaokula wengine."
+    },
+    "affectedCrops": [
+      "Beans"
+    ]
+  },
+  {
+    "id": "cassava-whitefly",
+    "cropName": "Cassava",
+    "conditionName": {
+      "en": "Cassava whitefly damage",
+      "sw": "Uharibifu wa inzi weupe wa muhogo"
+    },
+    "type": "pest",
+    "visualSymptoms": [
+      "white-powder",
+      "insect-presence",
+      "yellowing",
+      "pale-colour"
+    ],
+    "severity": "high",
+    "treatmentAdvice": {
+      "en": "Whiteflies cover the underside of cassava leaves with white waxy dust and sticky honeydew, and they carry the viruses that cause mosaic disease. Remove and destroy the heaviest infested lower leaves and wash the plant with a strong jet of water where the plot is small. For a large field, use a recommended whitefly control and keep the field weed free.",
+      "sw": "Inzi weupe hufunika chini ya majani ya muhogo kwa vumbi jeupe la nta na ute unaonata, na hubeba virusi vinavyosababisha ugonjwa wa mosaic. Ondoa na uharibu majani ya chini yaliyoathirika zaidi na uoshe mmea kwa mkondo mkali wa maji ikiwa shamba ni dogo. Shamba kubwa likiwa, tumia dawa inayopendekezwa ya inzi weupe na uondoe magugu shambani."
+    },
+    "preventionTip": {
+      "en": "Plant clean cuttings, keep a buffer from infected neighbours and scout the underside of leaves every week.",
+      "sw": "Panda vipande safi vya kupandia, weka nafasi kati ya jirani mwenye ugonjwa na ukague chini ya majani kila wiki."
+    },
+    "affectedCrops": [
+      "Cassava"
+    ]
+  },
+  {
+    "id": "cassava-anthracnose",
+    "cropName": "Cassava",
+    "conditionName": {
+      "en": "Cassava anthracnose",
+      "sw": "Anthracnose ya muhogo"
+    },
+    "type": "disease",
+    "visualSymptoms": [
+      "black-spots",
+      "rotting-stem",
+      "wilting"
+    ],
+    "severity": "medium",
+    "treatmentAdvice": {
+      "en": "Cassava anthracnose produces dark sunken cankers on the young stems and the shoot above them dies back. Prune and burn affected stems well away from the plot, cutting into healthy wood. Clean your knife with spirit between plants and avoid working in the plot when it is wet.",
+      "sw": "Anthracnose ya muhogo huleta vidonda vyeusi vilivyozama kwenye mashina machanga na kichwa kilicho juu yao hukauka. Pogoa na uchome mashina yaliyoathirika mbali na shamba, ukikata hadi kwenye sehemu yenye afya. Safisha kisu chako kwa spiriti kati ya mmea na mmea na epuka kufanya kazi shambani likiwa na maji."
+    },
+    "preventionTip": {
+      "en": "Plant healthy cuttings at the start of the rains so the shoots grow strongly before the disease builds up.",
+      "sw": "Panda vipande vyenye afya mwanzo wa mvua ili vichwa vikue kwa nguvu kabla ugonjwa haujajengeka."
+    },
+    "affectedCrops": [
+      "Cassava"
+    ]
+  },
+  {
+    "id": "cassava-grasshopper",
+    "cropName": "Cassava",
+    "conditionName": {
+      "en": "Cassava grasshopper damage",
+      "sw": "Uharibifu wa panzi wa muhogo"
+    },
+    "type": "pest",
+    "visualSymptoms": [
+      "holes-in-leaves",
+      "insect-presence"
+    ],
+    "severity": "low",
+    "treatmentAdvice": {
+      "en": "Grasshoppers chew ragged holes and edges from the young cassava leaves, mostly at the field edges. Walk the border in the early morning and hand pick or sweep the insects into a bucket of soapy water. Where the attack is heavy, use a recommended grasshopper control on the field edges only, so helpful insects inside the plot survive.",
+      "sw": "Panzi hutafuna matundu na kingo za majani machanga ya muhogo, hasa pembezoni mwa shamba. Pitia pembezoni asubuhi na mapema na uokote wadudu kwa mkono au uwafagie kwenye ndoo ya maji ya sabuni. Mashambulizi yakiwa mengi, tumia dawa inayopendekezwa ya panzi pembezoni mwa shamba pekee, ili wadudu wa manufaa ndani ya shamba wabaki."
+    },
+    "preventionTip": {
+      "en": "Keep the field edges slashed and free of tall grass where grasshoppers lay their eggs.",
+      "sw": "Fyeka pembezoni mwa shamba na uondoe nyasi ndefu ambapo panzi hutaga mayai."
+    },
+    "affectedCrops": [
+      "Cassava"
+    ]
+  },
+  {
+    "id": "kale-turnip-mosaic",
+    "cropName": "Kale",
+    "conditionName": {
+      "en": "Turnip mosaic virus",
+      "sw": "Virusi vya mosaic vya sukuma wiki"
+    },
+    "type": "disease",
+    "visualSymptoms": [
+      "mosaic-pattern",
+      "curling-leaves",
+      "unusual-growth"
+    ],
+    "severity": "medium",
+    "treatmentAdvice": {
+      "en": "Turnip mosaic gives pale ring marks and crinkled, curled leaves on kale and it spreads on aphids. Uproot and destroy affected plants and do not plant kale or cabbage on that bed again this season. Control aphids quickly with soapy spray so they do not move the virus to the healthy plants.",
+      "sw": "Mosaic ya turnip huleta madoa yaliyofifia na majani yaliyokunjana kwenye sukuma wiki, na huenea kwa vidukari. Ng'oa na uharibu mimea iliyoathirika na usipande sukuma wiki au kabichi kwenye kitanda hicho msimu huu. Dhibiti vidukari haraka kwa maji ya sabuni ili wasisambaze virusi kwa mimea yenye afya."
+    },
+    "preventionTip": {
+      "en": "Remove weeds such as wild mustard around the bed and plant kale seedlings under a fine net for the first month.",
+      "sw": "Ondoa magugu kama haradali mwitu karibu na kitanda na panda miche ya sukuma chini ya neti nyembesi kwa mwezi wa kwanza."
+    },
+    "affectedCrops": [
+      "Kale"
+    ]
+  },
+  {
+    "id": "wheat-streak-mosaic",
+    "cropName": "Wheat",
+    "conditionName": {
+      "en": "Wheat streak mosaic",
+      "sw": "Mosaic ya michirizi ya ngano"
+    },
+    "type": "disease",
+    "visualSymptoms": [
+      "mosaic-pattern",
+      "yellowing",
+      "pale-colour"
+    ],
+    "severity": "medium",
+    "treatmentAdvice": {
+      "en": "Streak mosaic shows as pale yellow dashes along the leaf, and the plant stays short with a poor head. There is no chemical cure, so remove badly affected plants and control the grass mites and volunteer wheat that carry the virus. Plant wheat after a break crop and keep the field edges clear of self sown wheat.",
+      "sw": "Streak mosaic huonekana kama michirizi ya njano hafifu kwenye jani, na mmea hubaki mfupi na suke dogo. Hakuna tiba ya kemikali, kwa hiyo ondoa mimea iliyoathirika zaidi na udhibiti utitiri wa nyasi na ngano inayoota yenyewe inayobeba virusi. Panda ngano baada ya zao lingine na uondoe ngano inayoota pembezoni."
+    },
+    "preventionTip": {
+      "en": "Avoid planting into volunteer wheat and sow at the recommended time for your area.",
+      "sw": "Epuka kupanda kwenye ngano inayoota yenyewe na panda kwa wakati unaopendekezwa kwa eneo lako."
+    },
+    "affectedCrops": [
+      "Wheat"
+    ]
+  },
+  {
+    "id": "wheat-armyworm",
+    "cropName": "Wheat",
+    "conditionName": {
+      "en": "Wheat armyworm damage",
+      "sw": "Uharibifu wa viwavi jeshi vya ngano"
+    },
+    "type": "pest",
+    "visualSymptoms": [
+      "holes-in-leaves",
+      "insect-presence",
+      "wilting"
+    ],
+    "severity": "high",
+    "treatmentAdvice": {
+      "en": "Armyworms feed at night and leave ragged leaves and bare patches that move across the field. Check the crop at dusk with a torch and look for the caterpillars on the ground and on the stems. Where numbers are high, spray a recommended caterpillar control in the evening and follow the label rate.",
+      "sw": "Viwavi jeshi hula usiku na huacha majani yaliyotafunwa na sehemu tupu zinazohama shambani. Kagua zao jioni na tochi na utafute viwavi chini na kwenye mashina. Idadi ikiwa kubwa, nyunyiza dawa inayopendekezwa ya viwavi jioni na ufuate kiwango kilichoandikwa."
+    },
+    "preventionTip": {
+      "en": "Scout the field twice a week from emergence and keep the surrounding grass cut short.",
+      "sw": "Kagua shamba mara mbili kwa wiki kuanzia kuota na ufyeke nyasi zinazozunguka shamba."
+    },
+    "affectedCrops": [
+      "Wheat"
+    ]
+  },
+  {
+    "id": "banana-mealybug",
+    "cropName": "Banana",
+    "conditionName": {
+      "en": "Banana mealybug damage",
+      "sw": "Uharibifu wa wadudu wa unga wa ndizi"
+    },
+    "type": "pest",
+    "visualSymptoms": [
+      "white-powder",
+      "insect-presence",
+      "unusual-growth"
+    ],
+    "severity": "medium",
+    "treatmentAdvice": {
+      "en": "Mealybugs look like small white cottony patches in the leaf axils and under the bunches. Wipe them off with a cloth dipped in soapy water and open the mat by removing old leaf sheaths so air reaches the base. If they keep coming back, apply a recommended mealybug control to the lower stem as directed.",
+      "sw": "Wadudu wa unga huonekana kama madoa madogo meupe ya pamba kwenye makwapa ya majani na chini ya mashina. Wafute kwa kitambaa kilicholowekwa kwenye maji ya sabuni na ufungue shina kwa kutoa maganda ya zamani ili hewa ifike chini. Wakiendelea kurudi, weka dawa inayopendekezwa ya wadudu hawa kwenye shina la chini kama ilivyoelekezwa."
+    },
+    "preventionTip": {
+      "en": "Keep the base of the banana mat clean and remove dry leaf sheaths every month.",
+      "sw": "Weka msingi wa shina la ndizi safi na uondoe maganda makavu ya majani kila mwezi."
+    },
+    "affectedCrops": [
+      "Banana"
+    ]
+  },
+  {
+    "id": "banana-mosaic-virus",
+    "cropName": "Banana",
+    "conditionName": {
+      "en": "Banana mosaic virus",
+      "sw": "Virusi vya mosaic vya ndizi"
+    },
+    "type": "disease",
+    "visualSymptoms": [
+      "mosaic-pattern",
+      "yellowing",
+      "curling-leaves"
+    ],
+    "severity": "medium",
+    "treatmentAdvice": {
+      "en": "Banana mosaic virus shows pale streaks and mottled patches on the leaves and the plant grows slowly. Remove and destroy affected suckers and the mother plant if the bunch is already formed, because the virus stays in the mat. Control aphids around the plot and use only clean tissue culture planting material next season.",
+      "sw": "Virusi vya mosaic vya ndizi huonyesha michirizi iliyofifia na madoa kwenye majani, na mmea hukua polepole. Ondoa na uharibu miche iliyoathirika na mmea mama ikiwa shina limeshaunda, kwa sababu virusi hubaki kwenye shina. Dhibiti vidukari karibu na shamba na tumia miche safi ya tissue culture msimu ujao."
+    },
+    "preventionTip": {
+      "en": "Buy certified tissue culture suckers and inspect them before they leave the nursery.",
+      "sw": "Nunua miche ya tissue culture iliyothibitishwa na uikague kabla haijatoka kitaluni."
+    },
+    "affectedCrops": [
+      "Banana"
+    ]
+  }
+]
